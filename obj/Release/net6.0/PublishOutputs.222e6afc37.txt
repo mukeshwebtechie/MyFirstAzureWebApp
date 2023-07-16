@@ -1,0 +1,7 @@
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.exe
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.dll
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.deps.json
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+E:\FullStack\Todo App\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.pdb
